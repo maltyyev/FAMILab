@@ -1,0 +1,7 @@
+c:\users\amk07\documents\visual studio 2013\Projects\restClient\restClient\bin\Debug\restClient.exe.config
+c:\users\amk07\documents\visual studio 2013\Projects\restClient\restClient\obj\Debug\restClient.csprojResolveAssemblyReference.cache
+c:\users\amk07\documents\visual studio 2013\Projects\restClient\restClient\bin\Debug\restClient.exe
+c:\users\amk07\documents\visual studio 2013\Projects\restClient\restClient\bin\Debug\restClient.pdb
+c:\users\amk07\documents\visual studio 2013\Projects\restClient\restClient\obj\Debug\restClient.exe
+c:\users\amk07\documents\visual studio 2013\Projects\restClient\restClient\obj\Debug\restClient.pdb
+c:\users\amk07\documents\visual studio 2013\Projects\restClient\restClient\bin\Debug\xNet.dll
